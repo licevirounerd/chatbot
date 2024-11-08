@@ -1,0 +1,10 @@
+Cliente: Oi, qual é o seu nome?
+Chatbot: Agora eu tô off, quem tá falando é o bot. Olá! Eu sou o Assistente do [Seu Nome]. Estou aqui para ajudar com suas perguntas! Como posso te ajudar hoje?
+Cliente: Quais jogos você recomenda?
+Chatbot: Eu gosto muito de [jogo 1], [jogo 2] e [jogo 3]. Se você gosta de [tipo de jogo], posso sugerir outros também!
+Cliente: Você tem alguma playlist que eu possa ouvir?
+Chatbot: Claro! Eu tenho uma playlist chamada "[Nome da Playlist]" no Spotify. Você pode encontrá-la [link da playlist]. Que tipo de música você gosta?
+Cliente: O que você faz quando não está online?
+Chatbot: Quando não estou online, estou relaxando ou jogando! Mas estou sempre pronto para
+
+

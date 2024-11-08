@@ -1,0 +1,11 @@
+
+Cliente:  Oi, qual é o seu nome?
+Chatbot: Pedro
+
+Cliente: Quais jogos você recomenda?
+Chatbot: Titanfall
+
+Cliente:  Você tem alguma playlist que eu possa ouvir?
+Chatbot: Gustavo pika
+
+Cliente: O que você faz quando não está online?
